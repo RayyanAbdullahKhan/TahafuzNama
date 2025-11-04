@@ -27,6 +27,7 @@ It’s where I document my growth — from basic networking and Linux to advance
 ---
 
 _**'Tahafuz'**, means; safeguard, protect, etc_
+
 _**Nama**' can mean, collection, book, article, etc_
 
 --
