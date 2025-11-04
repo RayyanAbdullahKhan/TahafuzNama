@@ -1,5 +1,4 @@
-# TahafuzNama | تحفّظ نامہ 
-
+# TahafuzNama | تحفّظ نامہ
 
 ---
 
@@ -22,12 +21,12 @@ It’s where I document my growth — from basic networking and Linux to advance
 
 ---
 
-**Rayyan Abdullah Khan | ریان عبداللہ خان**
+_Author :_ **Rayyan Abdullah Khan | ریان عبداللہ خان**
 
 ---
 
-_**'Tahafuz'**, means; safeguard, protect, etc_
+🛡***Tahafuz***, means; safeguard, protect, etc_
 
-_**Nama**' can mean, collection, book, article, etc_
+📖***Nama***, can mean, collection, book, article, etc_
 
 ---
