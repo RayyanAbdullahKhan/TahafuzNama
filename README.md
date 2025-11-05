@@ -25,8 +25,8 @@ _Author :_ **Rayyan Abdullah Khan | ریان عبداللہ خان**
 
 ---
 
-🛡***Tahafuz***, means; safeguard, protect, etc_
+🛡***Tahafuz***, means; safeguard, protect, etc
 
-📖***Nama***, can mean, collection, book, article, etc_
+📖***Nama***, can mean, collection, book, article, etc
 
 ---
