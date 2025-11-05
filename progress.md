@@ -45,3 +45,38 @@
 
 
 **Confidence / Difficulty:** _Medium_
+
+---
+
+## 🗓️ Weekly Summary
+**Week:** 1 → 2 ***ONGOING***  
+
+**Total Hours:** about 2 hrs  
+
+**Rooms / Labs Completed:** ***2***
+
+- [Content Discovery](https://tryhackme.com/room/contentdiscovery)
+- [Walking an Application](https://tryhackme.com/room/walkinganapplication)
+- 
+
+**Writeups Published:** _0 - **_just started!_**
+
+
+**Scripts / Tools Added:** _0  ***Not yet!***
+
+**Focus Areas:** **_Networking Basics, Linux commands_**
+
+
+**Blockers / Notes:** ***I love content discovery tools, ffuf is the best***
+
+
+**Next Week Goals:**
+
+
+1. Try writing a medium script for fun
+2. solidify my content discovery (its easy ngl)
+3. Learn something new
+4. I feel like a I rushed some precyber topics (probably will learn them in school), but still ill give them a look.
+
+
+**Confidence / Difficulty:** ***8.67/10***
