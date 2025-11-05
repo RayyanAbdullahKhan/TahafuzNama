@@ -4,7 +4,7 @@
 
 ### 📜 About
 
-**TahafuzNama** is my ongoing chronicle of learning, building, and experimenting in **ethical hacking** and **cybersecurity engineering**.  
+**TahafuzNama** is my ongoing chronicle of learning, building, and experimenting in **ethical hacking**, and **cybersecurity**.  
 It’s where I document my growth — from basic networking and Linux to advanced penetration testing, automation, and defense.
 
 ---
