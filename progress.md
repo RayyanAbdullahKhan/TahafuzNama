@@ -41,6 +41,7 @@
 **Rooms / Labs Completed:** **2**
 - [Content Discovery](https://tryhackme.com/room/contentdiscovery)
 - [Walking an Application](https://tryhackme.com/room/walkinganapplication)
+- [Sub Domain Enumeration](https://tryhackme.com/room/subdomainenumeration)
 
 **Writeups Published:** _None yet — still early days_  
 **Scripts / Tools Added:** _None yet — soon_  
