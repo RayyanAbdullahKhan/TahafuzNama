@@ -12,7 +12,11 @@ It’s where I document my growth — from basic networking and Linux to advance
 ### ⚙️ Contents
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - **Challenges/** → step-by-step writeups and walkthroughs of challenges I attempted
+=======
+- **Practicals/** → step-by-step writeups and walkthroughs
+>>>>>>> Stashed changes
 =======
 - **Practicals/** → step-by-step writeups and walkthroughs
 >>>>>>> Stashed changes
