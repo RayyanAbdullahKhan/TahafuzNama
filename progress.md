@@ -27,7 +27,7 @@
 
 **Next Week Goals:**  
 1. Write a small introductory script.  
-2. Complete **Cyber 101** and **Pre-Cyber** paths on TryHackMe.  
+2. Complete **Pre-Cyber** path on TryHackMe.  
 
 **Confidence / Difficulty:** _Medium_  
 
@@ -36,14 +36,17 @@
 ## 🗓️ Weekly Summary  
 ### Week: **1 → 2 (Ongoing)**  
 
-**Total Hours:** ~2 hrs  
+**Total Hours:** ~6 hrs  
 
 **Rooms / Labs Completed:** **2**
 - [Content Discovery](https://tryhackme.com/room/contentdiscovery)
 - [Walking an Application](https://tryhackme.com/room/walkinganapplication)
 - [Sub Domain Enumeration](https://tryhackme.com/room/subdomainenumeration)
+- [Natas 0-5 | OverTheWire](https://overthewire.org/wargames/natas/natas0.html)
+- [DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [Extending Your Network](https://tryhackme.com/room/extendingyournetwork)
 
-**Writeups Published:** _None yet — still early days_  
+**Writeups Published:** *1 (Natas 0-5)**,* *plan to share it in a community so experienced people can suggest obvious improvements*
 **Scripts / Tools Added:** _None yet — soon_  
 
 **Focus Areas:** _Content discovery, Linux commands_  
@@ -59,8 +62,6 @@
 
 ---
 
-<<<<<<< Updated upstream
-=======
 1. Try writing a small script for a general introduction
 2. Complete Cyber 101 nad Pre Cyber paths in TryHackMe
 
@@ -95,12 +96,6 @@
 
 ---
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
 > _تحفّظ نامہ — A record of learning, building, and experimenting with purpose_  
 > _From foundations to mastery, one lab at a time_
