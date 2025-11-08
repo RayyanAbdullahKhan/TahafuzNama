@@ -49,5 +49,23 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 
 **Lets see whats inside:**
 
+<img width="1055" height="498" alt="natas2found" src="https://github.com/user-attachments/assets/86030e59-b3cc-43b3-bbcd-408eb927ae41" />
+
+**As you can see, we have found a user list with passwords by simply finding vunerabilities on the website.**
+
+---
+## Level 3
+**After using the previously found credential we advance to level 3**
+
+<img width="2067" height="1269" alt="natas3clue" src="https://github.com/user-attachments/assets/7d8e4729-56fd-42f7-8daf-a1401e1ab567" />
+
+**We can see that there is no usefull data in here however there seems to be a hint**
+
+<img width="904" height="51" alt="image" src="https://github.com/user-attachments/assets/0e698b36-5c88-4011-80b0-743616f46304" />
+
+**`Google` might hint something related to [*webcrawlers*](https://en.wikipedia.org/wiki/Web_crawler).**
+
+
+
 
 
