@@ -73,11 +73,13 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 
 **We get something like this:**
 
-<img width="822" height="498" alt="NATAS3 SECERET DIRECTORY " src="https://github.com/user-attachments/assets/9c4f6731-bbe6-4741-a56d-b24d752e6a2b" />
+<img width="822" height="498" alt="NATAS3 SECERET DIRECTORY " src="https://github.com/user-attachments/assets/87772450-8df1-4479-a46d-df6a3c33f088" />
 
-**Now we know about a directoy called `/s3cr3t/`. Lets take a look!**
+**Now we know about a directoy called `/[REDACTED]/`. Lets take a look!**
 
-<img width="1336" height="635" alt="natas3found" src="https://github.com/user-attachments/assets/5d55196f-ad82-47ad-9a18-0986b020589f" />
+<img width="1336" height="635" alt="natas3found" src="https://github.com/user-attachments/assets/6f4fbc0a-974f-4dbc-93b7-4fd488ab13e0" />
+
+**Voila!**
 
 
 
