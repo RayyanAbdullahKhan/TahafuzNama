@@ -32,4 +32,4 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 
 <img width="2235" height="1266" alt="natas2clue" src="https://github.com/user-attachments/assets/49d77de7-135e-465d-bc3f-dce6e20e6101" />
 
-**As you can see after inspection we found something that catches our eye, a files directory.**
+**As you can see after inspection we found something that catches our eye, a `files/` directory.**
