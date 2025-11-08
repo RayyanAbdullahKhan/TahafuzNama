@@ -137,6 +137,8 @@ What surprised me most was how much security relies on obscurity rather than act
 
 These early levels weren't technically hard, but it flipped something in my brain about how to think about websites. Every page I go to now, I think: What's in the source code? What directories are there? What does my browser tell the server about me? It made me realize that security isn't some separate layer you add on—it has to be baked into every decision from the start.
 
+---
+> ريان عبدالله خان
 
 
 
