@@ -77,9 +77,15 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 
 **Now we know about a directoy called `/[REDACTED]/`. Lets take a look!**
 
-<img width="1336" height="635" alt="natas3found" src="https://github.com/user-attachments/assets/6f4fbc0a-974f-4dbc-93b7-4fd488ab13e0" />
+<img width="1336" height="635" alt="natas3found" src="https://github.com/user-attachments/assets/da0a1211-dab5-4a59-bcf3-ab593214c3f4" />
 
 **Voila!**
+
+---
+
+## Level 4 
+**This level requires a new tool as it introduces a new concept.** *Wor in progress...*
+
 
 
 
