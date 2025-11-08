@@ -11,11 +11,9 @@ It’s where I document my growth — from basic networking and Linux to advance
 
 ### ⚙️ Contents
 
-- **labs/** → step-by-step writeups and walkthroughs
+- **Challenges/** → step-by-step writeups and walkthroughs of challenges I attempted
 
-- **tools/** → custom scripts and small utilities
-
-- **reports/** → complete pentest-style reports and findings
+- **Projects/** → custom scripts and small utilities
 
 - **progress.md** → learning milestones and reflections
 
