@@ -126,7 +126,16 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 
 **Easy!**
 
+---
+
 ## Reflections
+Some of the important things I learned after working through these Natas levels was that web security doesn't have to involve complex exploits or fancy hacking tools. Most vulnerabilities boil down to simple mistakes: leaving sensitive data in HTML comments, exposing directory listings, forgetting about robots.txt, or trusting client-side data like cookies and referrer headers.
+
+It felt like a natural progression: each level built upon the last, starting with simple HTML inspection and moving into how HTTP requests work. By the time I got to level 4, I wasn't just looking at what was visible on a page anymore; I was thinking about the communication between my browser and the server and realizing just how easy it is to manipulate that conversation.
+Burp Suite was a game changer. Up until then, HTTP headers and cookies were abstract concepts. The idea of being able to see them in real time and actually pausing requests midflight to modify them made everything click. It's one thing to read that cookies can be tampered with; it's another to actually change "loggedin=0" to "loggedin=1" and watch the server just accept it.
+What surprised me most was how much security relies on obscurity rather than actual protection. Hidden directories, robots.txt files listing exactly what shouldn't be found, cookies that control access without any server-side verification—these aren't secure; they're just hoping nobody looks too closely.
+
+These early levels weren't technically hard, but it flipped something in my brain about how to think about websites. Every page I go to now, I think: What's in the source code? What directories are there? What does my browser tell the server about me? It made me realize that security isn't some separate layer you add on—it has to be baked into every decision from the start.
 
 
 
