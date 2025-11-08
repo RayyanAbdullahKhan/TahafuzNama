@@ -36,7 +36,7 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 
 **Using such information we know the website has another directory we might be able to access**.
 
-**So we do *[Website name]* / `files` / in the search bar and we are prompted with this:**
+**So we do *[Domain]* / `files` / in the search bar and we are prompted with this:**
 
 <img width="376" height="81" alt="natas2clue2" src="https://github.com/user-attachments/assets/da2b0d04-461f-470b-879a-e8fb14a5b5b3" />
 
