@@ -110,6 +110,30 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 ---
 ## Level 5
 
+**We are prompted with this:**
+
+<img width="1149" height="500" alt="natas5clue" src="https://github.com/user-attachments/assets/db41c12c-4995-46df-9276-2aca2c612aef" />
+
+**Again we can tell that its using some sort of check which will have to send a request to the server to verify if we are `logged in`**
+
+<img width="1149" height="500" alt="natas5clue" src="https://github.com/user-attachments/assets/8b2958eb-19c4-4a2b-9252-0575efa2ef5a" />
+
+**When ispecting the request in Burp Suite like before we see this:**
+
+<img width="1699" height="1094" alt="natas5cluesolver" src="https://github.com/user-attachments/assets/a80b4947-44ff-4531-9d1f-db85b4415ed3" />
+
+**Usualy `0` means Off, no, etc and `1` means On, yes, etc. so as mentioned before that we arent logged in we can change this `Cookie` to `loggedin-[1]`**
+
+**Then we see this:**
+
+<img width="1088" height="617" alt="natas5 solved" src="https://github.com/user-attachments/assets/0c3925fe-1bef-4782-8d0c-6e949c7aef0c" />
+
+**Easy!**
+
+## Reflections
+
+
+
 
 
 
