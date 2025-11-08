@@ -84,7 +84,34 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 ---
 
 ## Level 4 
-**This level requires a new tool as it introduces a new concept.** *...Work in progress...*
+**This level requires a new tool as it introduces a new concept.** 
+
+<img width="1344" height="1065" alt="natas4clue" src="https://github.com/user-attachments/assets/b22bf35e-a70c-4bac-a496-54451813efa1" />
+
+**The `Refresh page` button indicates that the website we are on might send a request to the server to check what we are visiting from. In our case we don't seem to be meeting the requirement as mentioned:**
+
+<img width="1344" height="1065" alt="natas4clue" src="https://github.com/user-attachments/assets/7d2cfc51-e588-47ac-92b4-58c0bc90ba13" />
+
+**How can one just intercept these requests and maybe change them; pretending to be someone else...?**
+
+**To do this, we can use Burp Suite** 
+
+<img width="300" height="104" alt="image" src="https://github.com/user-attachments/assets/7811a6e7-f20f-4e00-b1e3-8f88b4b60a03" />
+
+**We open a new temporary project and launch Burp's Chrome like browser.**
+**After clearing the initail logs we will enter are url in the browser then go to the *Proxy* tab and *turn intercept on*. Now we will refresh the page and burp will intercept the request as if its a car stopped in a checkpost. Now we can see some details**
+
+<img width="2217" height="1331" alt="nats4 solved" src="https://github.com/user-attachments/assets/9dc00ebb-9389-4f79-935f-de0a04b94be9" />
+
+**We can now change the referer (whos sending the request) nad pretend to be the authorized user and *forward* the request.**
+
+<img width="2217" height="1331" alt="nats4 solved" src="https://github.com/user-attachments/assets/9eff51f9-d91f-4eb2-820d-5f67598f4aa0" />
+
+**Simple!**
+
+---
+
+
 
 
 
