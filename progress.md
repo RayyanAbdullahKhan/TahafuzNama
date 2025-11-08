@@ -59,5 +59,42 @@
 
 ---
 
+<<<<<<< Updated upstream
+=======
+1. Try writing a small script for a general introduction
+2. Complete Cyber 101 nad Pre Cyber paths in TryHackMe
+
+
+**Confidence / Difficulty:** _Medium_
+
+## 🗓️ Weekly Summary  
+### Week: **1 → 2 (Ongoing)**  
+
+**Total Hours:** ~4 hrs  
+
+**Rooms / Labs Completed:** **2**
+- [Content Discovery](https://tryhackme.com/room/contentdiscovery)
+- [Walking an Application](https://tryhackme.com/room/walkinganapplication)
+- [Sub Domain Enumeration](https://tryhackme.com/room/subdomainenumeration)
+- [Extentding your Network](https://tryhackme.com/room/extendingyournetwork)
+- [DNS in Detail](https://tryhackme.com/room/dnsindetail)
+
+**Writeups Published:** _None yet — still early days_  
+**Scripts / Tools Added:** _None yet — soon_  
+
+**Focus Areas:** _Content discovery, Linux commands_  
+**Blockers / Notes:** _I love content discovery tools — `ffuf` is easily my favorite._  
+
+**Next Week Goals:**  
+1. Write a small-to-medium script for practice.  
+2. Solidify my content discovery workflow (it’s fun and easier than expected).  
+3. Learn something new.  
+4. Revisit some Pre-Cyber topics I may have rushed — worth a second look.  
+
+**Confidence / Difficulty:** _8.7 / 10_  
+
+---
+
+>>>>>>> Stashed changes
 > _تحفّظ نامہ — A record of learning, building, and experimenting with purpose_  
 > _From foundations to mastery, one lab at a time_
