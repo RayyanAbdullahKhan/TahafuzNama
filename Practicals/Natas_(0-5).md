@@ -10,11 +10,8 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 
 **To find the password we can inspect the page for anything hidden**
 
+<img width="2175" height="1246" alt="2025-11-08_13-20" src="https://github.com/user-attachments/assets/52d6e5a9-71cc-4ef7-a660-cd5d54205ffb" />
 
-
-
-
-<img width="2175" height="1246" alt="nats0answer" src="https://github.com/user-attachments/assets/ad3a59dc-8e44-4263-af3d-8d3cb1b2cf91" />
 
 **Voila!**
 
@@ -22,7 +19,7 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 ## Level 1
 **For the this level we use the username (given by OverTheWire) and the password we got before.**
 
-<img width="2213" height="1228" alt="natas1" src="https://github.com/user-attachments/assets/b574868a-68af-4fde-9b1a-f6d730912f43" />
+<img width="2213" height="1228" alt="natas1" src="https://github.com/user-attachments/assets/00166310-f234-418d-9b02-e6d4f70ccf32" />
 
 **As you can see we can use the same method as before for ths level**
 
@@ -30,20 +27,19 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 ## Level 2
 **This is a bit different and introduces hidden directories.**
 
-<img width="2235" height="1266" alt="natas2clue" src="https://github.com/user-attachments/assets/49d77de7-135e-465d-bc3f-dce6e20e6101" />
+<img width="2235" height="1266" alt="natas2clue" src="https://github.com/user-attachments/assets/b84f644e-7a6d-4e30-b7da-ffedf5f53f3b" />
 
-**As you can see after inspection we found something that catches our eye, a `files/` directory.**
+**As you can see after inspection we found something that catches our eye, a `[REDACTED]/` directory.**
 
 **Using such information we know the website has another directory we might be able to access**.
 
-**So we do *[Domain]* / `files` / in the search bar and we are prompted with this:**
+**So we do *[Domain]* / `[REDACTED]` / in the search bar and we are prompted with this:**
 
-<img width="376" height="81" alt="natas2clue2" src="https://github.com/user-attachments/assets/da2b0d04-461f-470b-879a-e8fb14a5b5b3" />
+<img width="376" height="81" alt="natas2found" src="https://github.com/user-attachments/assets/3954c3ec-7b0e-42df-b48a-18c1b88d4058" />
 
 **And we get a hidden paged:**
 
-
-<img width="1447" height="1010" alt="natas2clue found" src="https://github.com/user-attachments/assets/da908546-8563-4664-a23f-ebc1285447b1" />
+<img width="1447" height="1010" alt="natas2clue found" src="https://github.com/user-attachments/assets/f9143c9a-a4a1-47b2-8a00-b4bf27ee4755" />
 
 **"`users.txt`" is a bit tempting to open isnt it? :)**
 
@@ -63,7 +59,26 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 
 <img width="904" height="51" alt="image" src="https://github.com/user-attachments/assets/0e698b36-5c88-4011-80b0-743616f46304" />
 
-**`Google` might hint something related to [*webcrawlers*](https://en.wikipedia.org/wiki/Web_crawler).**
+**`Google` might hint something related to [*webcrawlers*](https://en.wikipedia.org/wiki/Web_crawler). We can know that they usually index files related to a website but we didnt find any here.**
+
+**So is it a dead end?...**
+
+**Nope! Usually Google allows site owners to select if certian files or directories can be indexed by the webcrawler. Such settings are usually stored in `robots.txt`**
+
+**So if we add `robots.txt` at the end of the domain:**
+
+<img width="407" height="211" alt="natas3clue2" src="https://github.com/user-attachments/assets/538d7fe1-02e7-4995-8924-6181e64f5cf7" />
+
+**We get something like this:**
+
+<img width="822" height="498" alt="NATAS3 SECERET DIRECTORY " src="https://github.com/user-attachments/assets/9c4f6731-bbe6-4741-a56d-b24d752e6a2b" />
+
+**Now we know about a directoy called `/s3cr3t/`. Lets take a look!**
+
+<img width="1336" height="635" alt="natas3found" src="https://github.com/user-attachments/assets/5d55196f-ad82-47ad-9a18-0986b020589f" />
+
+
+
 
 
 
