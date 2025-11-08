@@ -38,5 +38,16 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 
 **So we do *[Website name]* / `files` / in the search bar and we are prompted with this:**
 
+<img width="376" height="81" alt="natas2clue2" src="https://github.com/user-attachments/assets/da2b0d04-461f-470b-879a-e8fb14a5b5b3" />
+
+**And we get a hidden paged:**
+
+
 <img width="1447" height="1010" alt="natas2clue found" src="https://github.com/user-attachments/assets/da908546-8563-4664-a23f-ebc1285447b1" />
+
+**"`users.txt`" is a bit tempting to open isnt it? :)**
+
+**Lets see whats inside:**
+
+
 
