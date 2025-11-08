@@ -103,13 +103,14 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 
 <img width="2217" height="1331" alt="nats4 solved" src="https://github.com/user-attachments/assets/9dc00ebb-9389-4f79-935f-de0a04b94be9" />
 
-**We can now change the referer (whos sending the request) nad pretend to be the authorized user and *forward* the request.**
-
-<img width="2217" height="1331" alt="nats4 solved" src="https://github.com/user-attachments/assets/9eff51f9-d91f-4eb2-820d-5f67598f4aa0" />
+**We can just changed the referer (whos sending the request) and pretended to be the authorized user and *forward*ed the request.**
 
 **Simple!**
 
 ---
+## Level 5
+
+
 
 
 
