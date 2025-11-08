@@ -37,7 +37,7 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 
 <img width="376" height="81" alt="natas2found" src="https://github.com/user-attachments/assets/3954c3ec-7b0e-42df-b48a-18c1b88d4058" />
 
-**And we get a hidden paged:**
+**And we get a hidden page:**
 
 <img width="1447" height="1010" alt="natas2clue found" src="https://github.com/user-attachments/assets/f9143c9a-a4a1-47b2-8a00-b4bf27ee4755" />
 
@@ -45,9 +45,11 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 
 **Lets see whats inside:**
 
-<img width="1055" height="498" alt="natas2found" src="https://github.com/user-attachments/assets/86030e59-b3cc-43b3-bbcd-408eb927ae41" />
+ `[REDACTED]` `[REDACTED]` `[REDACTED]` `[REDACTED]` `[REDACTED]` `[REDACTED]` `[REDACTED]` `[REDACTED]` `[REDACTED]` `[REDACTED]` `[REDACTED]` `[REDACTED]` `[REDACTED]` `[REDACTED]`  `[REDACTED]` `[REDACTED]` `[REDACTED]` `[REDACTED]` `[REDACTED]` `[REDACTED]`
 
-**As you can see, we have found a user list with passwords by simply finding vunerabilities on the website.**
+***DO IT YOUR SELF!!!***
+
+**Opening `users.txt` will reveal the password to the next level**
 
 ---
 ## Level 3
