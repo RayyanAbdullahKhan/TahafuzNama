@@ -84,7 +84,7 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 ---
 
 ## Level 4 
-**This level requires a new tool as it introduces a new concept.** *Wor in progress...*
+**This level requires a new tool as it introduces a new concept.** *...Work in progress...*
 
 
 
