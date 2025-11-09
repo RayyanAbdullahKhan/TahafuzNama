@@ -19,7 +19,9 @@
 - [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
 **Writeups Published:** _None yet — just getting started_  
+
 **Scripts / Tools Added:** _None yet — warming up_  
+
 **Deep Box Completed:** ❌ | **Name:** N/A  
 
 **Focus Areas:** _Networking basics, Linux commands_  
@@ -48,6 +50,7 @@
 - [Authentication Bypass | THM](https://tryhackme.com/room/authenticationbypass)
 
 **Writeups Published:** *1 | [(Natas 0-5)](https://github.com/RayyanAbdullahKhan/TahafuzNama/blob/main/Practicals/Natas_(0-5).md),* *plan to share it in a community so experienced people can suggest obvious improvements*
+
 **Scripts / Tools Added:** _None yet — soon_  
 
 **Focus Areas:** _Content discovery, `curl`, `ffuf`, BurpSuite
