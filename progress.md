@@ -39,18 +39,20 @@
 **Total Hours:** ~6 hrs  
 
 **Rooms / Labs Completed:** **2**
-- [Content Discovery](https://tryhackme.com/room/contentdiscovery)
-- [Walking an Application](https://tryhackme.com/room/walkinganapplication)
-- [Sub Domain Enumeration](https://tryhackme.com/room/subdomainenumeration)
+- [Content Discovery | THM](https://tryhackme.com/room/contentdiscovery)
+- [Walking an Application | THM](https://tryhackme.com/room/walkinganapplication)
+- [Sub Domain Enumeration | THM](https://tryhackme.com/room/subdomainenumeration)
 - [Natas 0-5 | OverTheWire](https://overthewire.org/wargames/natas/natas0.html)
-- [DNS in detail](https://tryhackme.com/room/dnsindetail)
-- [Extending Your Network](https://tryhackme.com/room/extendingyournetwork)
+- [DNS in detail | THM](https://tryhackme.com/room/dnsindetail)
+- [Extending Your Network | THM](https://tryhackme.com/room/extendingyournetwork)
+- [Authentication Bypass | THM](https://tryhackme.com/room/authenticationbypass)
 
-**Writeups Published:** *1 (Natas 0-5)**,* *plan to share it in a community so experienced people can suggest obvious improvements*
+**Writeups Published:** *1 | [(Natas 0-5)](https://github.com/RayyanAbdullahKhan/TahafuzNama/blob/main/Practicals/Natas_(0-5).md),* *plan to share it in a community so experienced people can suggest obvious improvements*
 **Scripts / Tools Added:** _None yet — soon_  
 
-**Focus Areas:** _Content discovery, Linux commands_  
-**Blockers / Notes:** _I love content discovery tools — `ffuf` is easily my favorite._  
+**Focus Areas:** _Content discovery, `curl`, `ffuf`, BurpSuite
+
+**Blockers / Notes:** BurpSuite good, Inspect bad, `curl` ugly.
 
 **Next Week Goals:**  
 1. Write a small-to-medium script for practice.  
@@ -62,36 +64,7 @@
 
 ---
 
-1. Try writing a small script for a general introduction
-2. Complete Cyber 101 nad Pre Cyber paths in TryHackMe
 
-
-**Confidence / Difficulty:** _Medium_
-
-## 🗓️ Weekly Summary  
-### Week: **1 → 2 (Ongoing)**  
-
-**Total Hours:** ~5 hrs  
-
-**Rooms / Labs Completed:** **2**
-- [Content Discovery](https://tryhackme.com/room/contentdiscovery)
-- [Walking an Application](https://tryhackme.com/room/walkinganapplication)
-- [Sub Domain Enumeration](https://tryhackme.com/room/subdomainenumeration)
-- [Extentding your Network](https://tryhackme.com/room/extendingyournetwork)
-- [DNS in Detail](https://tryhackme.com/room/dnsindetail)
-
-**Writeups Published:** [Natas 0 - 5 (OverTheWire)](https://github.com/RayyanAbdullahKhan/TahafuzNama/blob/main/Practicals/Natas_(0-5).md)
-**Scripts / Tools Added:** _None yet — soon_  
-
-**Focus Areas:** _Content discovery, Linux commands_  
-**Blockers / Notes:** BurpSuite is cool + i h8 curl
-
-**Next Week Goals:**  
-1. Do some practicals on Subdomain Enumeration, username unumeration, IDORS, Authentication bypass ,etc...
-
-**Confidence / Difficulty:** _8.99/ 10_  
-
----
 
 
 > _تحفّظ نامہ — A record of learning, building, and experimenting with purpose_  
