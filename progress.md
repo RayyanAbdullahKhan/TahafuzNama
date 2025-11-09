@@ -71,7 +71,7 @@
 ## 🗓️ Weekly Summary  
 ### Week: **1 → 2 (Ongoing)**  
 
-**Total Hours:** ~4 hrs  
+**Total Hours:** ~5 hrs  
 
 **Rooms / Labs Completed:** **2**
 - [Content Discovery](https://tryhackme.com/room/contentdiscovery)
@@ -80,19 +80,16 @@
 - [Extentding your Network](https://tryhackme.com/room/extendingyournetwork)
 - [DNS in Detail](https://tryhackme.com/room/dnsindetail)
 
-**Writeups Published:** _None yet — still early days_  
+**Writeups Published:** [Natas 0 - 5 (OverTheWire)](https://github.com/RayyanAbdullahKhan/TahafuzNama/blob/main/Practicals/Natas_(0-5).md)
 **Scripts / Tools Added:** _None yet — soon_  
 
 **Focus Areas:** _Content discovery, Linux commands_  
-**Blockers / Notes:** _I love content discovery tools — `ffuf` is easily my favorite._  
+**Blockers / Notes:** BurpSuite is cool + i h8 curl
 
 **Next Week Goals:**  
-1. Write a small-to-medium script for practice.  
-2. Solidify my content discovery workflow (it’s fun and easier than expected).  
-3. Learn something new.  
-4. Revisit some Pre-Cyber topics I may have rushed — worth a second look.  
+1. Do some practicals on Subdomain Enumeration, username unumeration, IDORS, Authentication bypass ,etc...
 
-**Confidence / Difficulty:** _8.7 / 10_  
+**Confidence / Difficulty:** _8.99/ 10_  
 
 ---
 
