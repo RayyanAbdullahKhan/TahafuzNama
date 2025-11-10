@@ -96,5 +96,5 @@
 
 
 
-> _تحفّظ نامہ — A record of learning, building, and experimenting with purpose_  
-> _From foundations to mastery, one lab at a time_
+> _تحفّظ نامہ —_  
+
