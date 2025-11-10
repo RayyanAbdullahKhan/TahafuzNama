@@ -49,7 +49,7 @@
 - [Extending Your Network | THM](https://tryhackme.com/room/extendingyournetwork)
 - [Authentication Bypass | THM](https://tryhackme.com/room/authenticationbypass)
 
-**Writeups Published:** *1 | [(Natas 0-5)](https://github.com/RayyanAbdullahKhan/TahafuzNama/blob/main/Practicals/Natas_(0-5).md),* *plan to share it in a community so experienced people can suggest obvious improvements*
+**Writeups Published:** *1 | [(Natas 0-5)](WriteUps/Natas_(0-5).md),* *plan to share it in a community so experienced people can suggest obvious improvements*
 
 **Scripts / Tools Added:** _None yet — soon_  
 
