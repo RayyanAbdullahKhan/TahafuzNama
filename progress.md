@@ -36,7 +36,7 @@
 ---
 
 ## 🗓️ Weekly Summary  
-### Week: **1 → 2 (Ongoing)**  
+### Week: **1 → 2**  
 
 **Total Hours:** ~6 hrs  
 
@@ -64,6 +64,31 @@
 4. Revisit some Pre-Cyber topics I may have rushed — worth a second look.  
 
 **Confidence / Difficulty:** _8.7 / 10_  
+
+---
+
+## 🗓️ Weekly Summary  
+### Week: **2 → 3 (Ongoing)**  
+
+**Total Hours:** ~2 hrs  
+
+**Rooms / Labs Completed:** **2**
+- [HTTP in Detail | THM](https://tryhackme.com/room/httpindetail)
+
+**Writeups Published:** *0*
+
+**Scripts / Tools Added:** _None yet — soon_  
+
+**Focus Areas:** Networks, linux commands
+
+**Blockers / Notes:** *...*
+
+**Next Week Goals:**  
+1. Same as previous weel
+2. LOCK INN!!!
+
+**Confidence / Difficulty:** _8 / 10_  
+
 
 ---
 
