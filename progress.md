@@ -76,7 +76,8 @@
 - [HTTP in Detail | THM](https://tryhackme.com/room/httpindetail)
 - [How websites work | THM](https://tryhackme.com/room/howwebsiteswork)
 - [Putting it all together](https://tryhackme.com/room/puttingitalltogether)
-
+- [Linux Fundementals Part 2 | THM](https://tryhackme.com/room/linuxfundamentalspart2)
+  
 **Writeups Published:** *0*
 
 **Scripts / Tools Added:** _None yet — soon_  
