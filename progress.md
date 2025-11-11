@@ -78,6 +78,7 @@
 - [Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 - [Linux Fundementals Part 2 | THM](https://tryhackme.com/room/linuxfundamentalspart2)
 - [Linux Fundementals Part 3 | THM](https://tryhackme.com/room/linuxfundamentalspart3)
+- [Windows Fundementals Part 1 | THM](https://tryhackme.com/room/windowsfundamentals1xbx)
   
 **Writeups Published:** *0*
 
