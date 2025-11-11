@@ -11,22 +11,16 @@ It’s where I document my growth — from basic networking and Linux to advance
 
 ### ⚙️ Contents
 
-- **Challenges/** → step-by-step writeups and walkthroughs of challenges I attempted
+- **[WriteUps/](https://github.com/RayyanAbdullahKhan/TahafuzNama/tree/main/WriteUps)** → step-by-step writeups and walkthroughs of challenges I attempted
 
-- **Practicals/** → step-by-step writeups and walkthroughs
+- **[Projects/](https://github.com/RayyanAbdullahKhan/TahafuzNama/tree/main/Projects)** → custom scripts and small utilities
 
-- **Projects/** → custom scripts and small utilities
-
-- **progress.md** → learning milestones and reflections
+- **[progress.md](https://github.com/RayyanAbdullahKhan/TahafuzNama/blob/main/progress.md)** → learning milestones and reflections
 
 ---
 
-_Author :_ **Rayyan Abdullah Khan | ریان عبداللہ خان**
+>_Author :_ **Rayyan Abdullah Khan | ریان عبداللہ خان**
 
 ---
 
-🛡***Tahafuz***, means; safeguard, protect, etc
 
-📖***Nama***, can mean, collection, book, article, etc
-
----
