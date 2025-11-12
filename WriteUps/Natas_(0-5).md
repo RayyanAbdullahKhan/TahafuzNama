@@ -118,7 +118,7 @@ Natas is a an [OverTheWire](https://overthewire.org/wargames/natas/natas0.html) 
 
 <img width="1699" height="1094" alt="natas5cluesolver" src="https://github.com/user-attachments/assets/a80b4947-44ff-4531-9d1f-db85b4415ed3" />
 
-**Usualy `0` means Off, no, etc and `1` means On, yes, etc. so as mentioned before that we arent logged in we can change this `Cookie: loggedin-[0]`to `loggedin-[1]`**
+**Usualy `0` means Off, no, etc and `1` means On, yes, etc. so as mentioned before that we arent logged in we can change this [Cookie](https://en.wikipedia.org/wiki/HTTP_cookie): `loggedin-[0]`to `loggedin-[1]`**
 
 **Then we see this:**
 
