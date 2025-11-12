@@ -79,6 +79,7 @@
 - [Linux Fundementals Part 2 | THM](https://tryhackme.com/room/linuxfundamentalspart2)
 - [Linux Fundementals Part 3 | THM](https://tryhackme.com/room/linuxfundamentalspart3)
 - [Windows Fundementals Part 1 | THM](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [Windows Fundementals Part 2 | THM](https://tryhackme.com/room/windowsfundamentals2x0x)
   
 **Writeups Published:** *0*
 
