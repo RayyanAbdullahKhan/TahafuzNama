@@ -82,6 +82,7 @@
 - [Windows Fundementals Part 2 | THM](https://tryhackme.com/room/windowsfundamentals2x0x)
 - [Windows Fundementals Part 3 | THM](https://tryhackme.com/room/windowsfundamentals3xzx)
 - [Search Skills | THM](https://tryhackme.com/room/searchskills)
+- [IDOR | THM](https://tryhackme.com/room/idor)
   
 **Writeups Published:** *0*
 
