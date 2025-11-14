@@ -84,6 +84,7 @@
 - [Search Skills | THM](https://tryhackme.com/room/searchskills)
 - [IDOR | THM](https://tryhackme.com/room/idor)
 - [**Lab**: Username enumeration via different responses | WebSecurity Academy (Portwigger)](https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/password-based-vulnerabilities/authentication/password-based/lab-username-enumeration-via-different-responses)
+- [**Lab**: Username enumeration via subtly different responses | WebSecurity Academy (Portwigger)](https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/password-based-vulnerabilities/authentication/password-based/lab-username-enumeration-via-subtly-different-responses#)
 
 **Writeups Published:** *0*
 
