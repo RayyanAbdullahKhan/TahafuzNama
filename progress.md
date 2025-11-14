@@ -70,7 +70,7 @@
 ## 🗓️ Weekly Summary  
 ### Week: **2 → 3 (Ongoing)**  
 
-**Total Hours:** ~6 hrs  
+**Total Hours:** ~8 hrs  
 
 **Rooms / Labs Completed:** **2**
 - [HTTP in Detail | THM](https://tryhackme.com/room/httpindetail)
@@ -83,7 +83,8 @@
 - [Windows Fundementals Part 3 | THM](https://tryhackme.com/room/windowsfundamentals3xzx)
 - [Search Skills | THM](https://tryhackme.com/room/searchskills)
 - [IDOR | THM](https://tryhackme.com/room/idor)
-  
+- [**Lab**: Username enumeration via different responses | WebSecurity Academy (Portwigger)](https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/password-based-vulnerabilities/authentication/password-based/lab-username-enumeration-via-different-responses)
+
 **Writeups Published:** *0*
 
 **Scripts / Tools Added:** _None yet — soon_  
