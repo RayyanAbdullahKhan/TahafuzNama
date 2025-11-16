@@ -68,9 +68,9 @@
 ---
 
 ## 🗓️ Weekly Summary  
-### Week: **2 → 3 (Ongoing)**  
+### Week: **2 → 3**  
 
-**Total Hours:** ~8 hrs  
+**Total Hours:** ~10 hrs  
 
 **Rooms / Labs Completed:** **2**
 - [HTTP in Detail | THM](https://tryhackme.com/room/httpindetail)
