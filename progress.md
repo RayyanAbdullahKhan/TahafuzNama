@@ -102,6 +102,31 @@
 
 **Confidence / Difficulty:** _8 / 10_  
 
+---
+
+## 🗓️ Weekly Summary  
+### Week: **3 → 4**  
+
+**Total Hours:** ~2 hrs  
+
+**Rooms / Labs Completed:** **2**
+-[Windows command line | THM](https://tryhackme.com/room/windowscommandline)
+
+**Writeups Published:** *0*
+
+**Scripts / Tools Added:** _None yet — soon_  
+
+**Focus Areas:** CLI, Scripting
+
+**Blockers / Notes:** *...*
+
+**Next Week Goals:**  
+1. Same as previous weel
+2. LOCK INN!!!!!!!!!!!!!!!!!!!!
+
+**Confidence / Difficulty:** _8 / 10_  
+
+
 
 ---
 
