@@ -105,7 +105,7 @@
 ---
 
 ## 🗓️ Weekly Summary  
-### Week: **3 → 4**  
+### Week: **3 → 4**  ***~ONGOING***
 
 **Total Hours:** ~2 hrs  
 
