@@ -110,14 +110,15 @@
 **Total Hours:** ~3 hrs  
 
 **Rooms / Labs Completed:** **2**
--[Windows command line | THM](https://tryhackme.com/room/windowscommandline)
+- [Windows command line | THM](https://tryhackme.com/room/windowscommandline)
 - [Windows Powershell | THM](https://tryhackme.com/room/windowspowershell)
+- [Linux Shells | THM](https://tryhackme.com/room/linuxshells)
   
 **Writeups Published:** *0*
 
 **Scripts / Tools Added:** _None yet — soon_  
 
-**Focus Areas:** CLI, Scripting
+**Focus Areas:** CLI, Scripting, Shell
 
 **Blockers / Notes:** *...*
 
