@@ -107,12 +107,13 @@
 ## 🗓️ Weekly Summary  
 ### Week: **3 → 4**  ***~ONGOING***
 
-**Total Hours:** ~3 hrs  
+**Total Hours:** ~5 hrs  
 
 **Rooms / Labs Completed:** **2**
 - [Windows command line | THM](https://tryhackme.com/room/windowscommandline)
 - [Windows Powershell | THM](https://tryhackme.com/room/windowspowershell)
 - [Linux Shells | THM](https://tryhackme.com/room/linuxshells)
+- [Networking Concepts | THM](https://tryhackme.com/room/networkingconcepts)
   
 **Writeups Published:** *0*
 
